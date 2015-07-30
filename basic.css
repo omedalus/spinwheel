@@ -1,0 +1,16 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #ff6;
+    margin: 0;
+    padding: 0;
+}
+
+.spinwheel-spinny canvas {
+    border: 1px solid black;
+    height: 640px;
+    width: 640px;
+}
